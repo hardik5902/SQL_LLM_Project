@@ -1,0 +1,1178 @@
+order_id,item,unit_price,quantity
+1,Taco,18.46,2
+1,Burger,15.55,3
+1,Sandwich,17.34,1
+2,Taco,8.08,3
+3,Steak,20.05,3
+4,Chicken Wings,22.15,3
+4,Taco,19.9,2
+4,Sushi,8.31,3
+4,Dumplings,24.27,3
+5,Fries,23.51,1
+5,Pasta,7.0,1
+5,Pizza,19.12,2
+6,Burger,12.7,2
+6,Pizza,21.99,1
+6,Fries,24.63,3
+7,Chicken Wings,19.28,3
+7,Dumplings,3.8,3
+7,Coffee,17.47,1
+7,Pasta,11.46,3
+7,Dumplings,13.58,1
+8,Smoothie,12.07,1
+8,Taco,7.29,3
+8,Sandwich,16.23,1
+8,Sushi,8.32,3
+9,Salad,8.34,3
+9,Ice Cream,13.71,3
+9,Burger,12.3,3
+10,Ice Cream,21.33,3
+10,Dumplings,3.42,3
+11,Noodle Bowl,3.29,2
+11,Sushi,7.1,1
+11,Smoothie,6.54,3
+11,Salad,24.19,1
+11,Pasta,23.06,2
+12,Pasta,7.17,3
+13,Coffee,13.45,1
+13,Salad,18.64,1
+14,Dumplings,21.86,3
+14,Salad,18.63,2
+14,Pizza,13.1,1
+14,Dumplings,13.46,1
+15,Chicken Wings,10.64,2
+15,Pasta,18.69,2
+15,Salad,6.44,2
+16,Burger,10.68,2
+16,Ice Cream,24.96,1
+16,Sandwich,22.39,1
+16,Pasta,17.51,3
+17,Burger,6.38,1
+17,Burger,18.87,2
+18,Chicken Wings,14.63,3
+18,Sandwich,15.71,2
+18,Fries,12.57,2
+19,Smoothie,19.21,1
+19,Fries,12.42,1
+20,Pasta,7.39,2
+21,Chicken Wings,16.28,3
+21,Pasta,8.85,1
+22,Coffee,4.12,1
+22,Pasta,17.61,3
+22,Salad,18.69,1
+22,Ice Cream,6.5,2
+22,Pasta,7.03,3
+23,Dumplings,21.8,3
+23,Sushi,23.22,2
+24,Coffee,13.37,1
+24,Ice Cream,13.55,2
+24,Dumplings,7.28,1
+24,Sandwich,15.97,3
+25,Salad,13.58,1
+25,Coffee,5.08,3
+25,Smoothie,5.2,2
+25,Chicken Wings,12.68,2
+26,Smoothie,22.64,2
+26,Smoothie,3.57,3
+27,Coffee,3.5,1
+27,Ice Cream,22.94,2
+27,Salad,16.25,2
+27,Coffee,11.92,1
+27,Steak,8.1,1
+28,Taco,22.9,2
+28,Salad,15.46,1
+28,Pizza,18.18,3
+28,Fries,21.15,2
+29,Ice Cream,6.8,3
+29,Smoothie,19.9,1
+30,Sushi,6.13,2
+30,Sandwich,8.12,2
+30,Sandwich,5.48,2
+31,Smoothie,10.24,3
+31,Dumplings,19.06,2
+31,Ice Cream,6.48,1
+31,Sushi,7.05,1
+32,Salad,21.8,3
+33,Coffee,4.71,1
+33,Fries,12.62,1
+33,Smoothie,8.52,3
+33,Pizza,16.46,3
+34,Taco,17.35,3
+35,Pasta,5.1,3
+35,Ice Cream,8.78,2
+35,Fries,23.26,2
+36,Fries,22.33,2
+36,Sandwich,13.16,3
+37,Burger,24.8,3
+37,Coffee,4.32,2
+37,Coffee,24.12,1
+37,Noodle Bowl,14.3,2
+38,Steak,13.32,2
+38,Burger,15.43,1
+38,Dumplings,20.91,3
+38,Salad,7.91,3
+39,Sandwich,21.6,1
+39,Pasta,4.76,1
+39,Steak,22.0,2
+39,Coffee,19.65,3
+40,Burger,17.82,2
+40,Smoothie,9.78,1
+40,Ice Cream,19.67,2
+41,Coffee,14.29,1
+42,Noodle Bowl,4.51,2
+42,Burger,19.68,3
+43,Dumplings,12.34,2
+43,Sushi,9.48,3
+43,Coffee,13.38,1
+43,Coffee,10.65,1
+43,Sandwich,6.27,3
+44,Taco,9.36,2
+45,Sushi,11.41,3
+45,Taco,21.48,3
+45,Pasta,16.99,2
+45,Ice Cream,10.82,1
+46,Chicken Wings,8.04,3
+47,Steak,18.08,1
+47,Fries,9.97,3
+47,Dumplings,7.54,1
+47,Taco,20.71,1
+47,Steak,16.4,1
+48,Pizza,8.37,3
+48,Steak,19.8,1
+48,Smoothie,21.97,3
+49,Salad,14.02,2
+49,Smoothie,6.61,3
+49,Dumplings,11.73,3
+49,Salad,7.75,2
+50,Ice Cream,19.71,3
+50,Steak,16.71,1
+50,Ice Cream,23.11,1
+50,Fries,20.22,3
+50,Burger,21.06,1
+51,Steak,5.01,3
+51,Smoothie,15.43,1
+51,Coffee,18.55,2
+51,Pizza,24.38,1
+51,Burger,21.67,1
+52,Taco,10.89,1
+52,Sandwich,23.0,2
+52,Ice Cream,14.48,1
+52,Sandwich,24.62,2
+53,Pasta,24.47,3
+53,Taco,17.63,3
+53,Steak,14.6,3
+54,Taco,14.44,1
+55,Sushi,15.81,1
+55,Ice Cream,16.41,1
+55,Steak,14.67,3
+55,Chicken Wings,3.91,2
+55,Pizza,12.38,2
+56,Ice Cream,7.49,2
+56,Salad,6.37,3
+56,Smoothie,13.67,2
+56,Steak,5.26,3
+56,Salad,5.13,3
+57,Noodle Bowl,6.28,2
+57,Fries,12.14,2
+57,Salad,14.63,3
+57,Pasta,8.91,1
+58,Taco,8.67,1
+58,Noodle Bowl,7.29,2
+58,Fries,6.61,3
+58,Pasta,6.57,2
+59,Salad,22.78,3
+59,Smoothie,15.08,2
+59,Pizza,23.23,1
+60,Burger,19.15,3
+60,Noodle Bowl,3.47,3
+60,Coffee,20.67,2
+60,Taco,3.03,1
+61,Fries,9.43,3
+62,Chicken Wings,18.24,3
+62,Pizza,3.32,1
+62,Chicken Wings,16.48,2
+62,Sushi,15.12,2
+62,Coffee,9.52,3
+63,Pasta,21.1,1
+64,Taco,9.0,2
+64,Smoothie,24.49,3
+65,Burger,5.43,2
+65,Coffee,23.68,1
+66,Smoothie,21.45,2
+66,Pizza,7.46,1
+67,Fries,14.32,3
+67,Taco,24.9,2
+68,Dumplings,22.49,1
+68,Taco,16.0,3
+68,Fries,19.32,1
+69,Steak,15.85,2
+70,Dumplings,10.73,1
+70,Smoothie,21.43,1
+70,Chicken Wings,8.89,2
+70,Taco,9.58,2
+70,Noodle Bowl,10.13,1
+71,Dumplings,15.92,3
+71,Smoothie,15.26,2
+71,Salad,19.73,1
+71,Pizza,23.72,2
+71,Sandwich,24.73,1
+72,Sushi,10.96,1
+72,Taco,19.72,1
+72,Ice Cream,10.77,3
+72,Salad,18.63,3
+72,Noodle Bowl,22.24,3
+73,Salad,15.09,2
+73,Burger,6.56,3
+73,Dumplings,19.68,2
+74,Coffee,20.97,1
+74,Noodle Bowl,21.82,2
+74,Dumplings,22.91,3
+74,Smoothie,10.5,2
+75,Fries,24.11,2
+75,Dumplings,24.53,3
+75,Sandwich,3.16,1
+76,Pasta,15.65,3
+76,Chicken Wings,21.82,2
+76,Steak,19.84,3
+76,Coffee,20.15,3
+77,Dumplings,13.56,3
+77,Pasta,5.02,3
+77,Salad,17.88,3
+78,Burger,5.0,1
+78,Salad,14.83,2
+79,Taco,23.51,2
+79,Noodle Bowl,17.66,2
+80,Dumplings,12.81,3
+80,Ice Cream,23.51,1
+80,Dumplings,13.46,2
+80,Dumplings,15.19,3
+81,Salad,17.2,3
+81,Chicken Wings,23.89,3
+81,Sushi,6.79,2
+81,Ice Cream,16.12,1
+81,Steak,16.94,3
+82,Steak,6.14,1
+83,Salad,16.86,3
+83,Dumplings,22.04,1
+83,Ice Cream,13.89,3
+84,Smoothie,12.12,1
+85,Smoothie,14.48,1
+86,Smoothie,24.09,2
+86,Smoothie,10.98,1
+86,Smoothie,6.64,3
+86,Sandwich,6.27,1
+87,Smoothie,23.62,2
+87,Pizza,3.76,1
+87,Sandwich,14.46,2
+87,Noodle Bowl,6.1,1
+87,Steak,9.13,1
+88,Taco,9.15,2
+88,Taco,20.71,2
+88,Ice Cream,16.89,1
+88,Ice Cream,11.95,2
+88,Ice Cream,17.47,3
+89,Salad,3.27,3
+89,Chicken Wings,11.4,2
+89,Fries,8.71,3
+90,Noodle Bowl,22.33,2
+90,Steak,15.85,3
+91,Steak,8.31,2
+91,Taco,16.79,3
+91,Ice Cream,7.35,3
+91,Noodle Bowl,15.72,3
+92,Fries,5.27,2
+92,Fries,3.94,2
+93,Ice Cream,9.24,1
+93,Sushi,9.7,3
+94,Taco,7.29,3
+94,Burger,12.51,3
+94,Fries,5.22,2
+94,Pizza,3.41,3
+94,Steak,11.68,1
+95,Smoothie,5.39,1
+95,Pizza,15.2,1
+95,Ice Cream,19.93,1
+95,Noodle Bowl,13.7,1
+96,Taco,4.65,3
+96,Fries,14.65,2
+96,Sushi,15.83,3
+96,Ice Cream,12.44,1
+97,Taco,13.56,3
+97,Sushi,21.32,3
+98,Burger,9.39,2
+98,Taco,16.88,2
+98,Pizza,9.97,3
+98,Smoothie,12.79,3
+99,Pizza,5.34,3
+99,Burger,19.14,2
+99,Salad,22.77,3
+100,Sushi,4.81,2
+100,Dumplings,16.0,3
+100,Salad,18.08,2
+100,Noodle Bowl,6.97,2
+100,Dumplings,20.79,2
+101,Dumplings,11.85,3
+101,Dumplings,9.75,2
+101,Coffee,15.58,3
+101,Dumplings,6.09,1
+101,Coffee,6.15,1
+102,Fries,16.34,1
+102,Pizza,13.07,1
+102,Taco,7.9,2
+102,Sushi,20.44,2
+102,Steak,21.2,2
+103,Noodle Bowl,12.23,2
+103,Pizza,3.63,1
+104,Taco,19.07,2
+104,Sushi,8.37,2
+104,Chicken Wings,4.02,3
+105,Ice Cream,13.83,1
+105,Coffee,18.05,2
+105,Dumplings,3.06,2
+105,Fries,22.36,3
+106,Noodle Bowl,13.83,1
+107,Sandwich,7.36,2
+108,Pasta,16.55,1
+108,Pasta,5.21,1
+108,Smoothie,24.82,1
+108,Fries,11.42,3
+109,Pizza,6.63,2
+109,Coffee,6.63,1
+110,Pasta,3.76,2
+110,Sushi,5.38,3
+111,Pasta,20.17,2
+111,Noodle Bowl,20.67,2
+111,Burger,16.7,2
+111,Fries,4.46,1
+112,Ice Cream,8.0,1
+112,Steak,6.2,1
+112,Dumplings,15.82,3
+113,Sushi,12.49,2
+113,Smoothie,17.24,1
+113,Fries,23.46,2
+113,Smoothie,9.15,3
+114,Pizza,12.65,2
+114,Chicken Wings,21.27,3
+114,Sushi,11.12,1
+115,Burger,23.82,2
+115,Smoothie,19.12,3
+115,Dumplings,24.63,1
+115,Taco,8.62,1
+116,Sandwich,7.44,2
+116,Coffee,10.67,1
+117,Dumplings,24.49,3
+117,Coffee,5.8,3
+117,Steak,9.11,2
+118,Noodle Bowl,16.11,3
+118,Pasta,10.94,2
+119,Taco,6.54,3
+119,Chicken Wings,12.1,3
+119,Pizza,3.51,3
+119,Taco,7.42,2
+120,Taco,24.65,3
+120,Chicken Wings,23.68,3
+120,Burger,14.32,1
+120,Pasta,10.12,1
+120,Pasta,19.94,2
+121,Dumplings,8.66,3
+121,Sandwich,10.66,2
+122,Salad,13.9,3
+122,Salad,21.29,1
+123,Burger,4.44,1
+123,Noodle Bowl,10.99,3
+124,Smoothie,13.43,1
+124,Taco,18.12,2
+125,Chicken Wings,19.44,3
+126,Taco,21.58,3
+126,Pasta,7.74,3
+127,Steak,12.94,1
+127,Pasta,13.0,1
+128,Pizza,22.7,2
+129,Steak,20.55,3
+129,Sushi,18.44,3
+129,Pasta,20.44,2
+130,Sushi,15.28,1
+131,Burger,6.11,1
+131,Salad,23.42,1
+132,Sandwich,21.17,2
+132,Noodle Bowl,6.06,3
+132,Noodle Bowl,4.2,2
+132,Dumplings,17.07,2
+132,Fries,13.15,1
+133,Pasta,17.37,2
+133,Pasta,21.39,2
+133,Taco,11.15,1
+133,Ice Cream,15.66,1
+134,Sandwich,5.12,2
+134,Salad,10.82,1
+134,Pizza,11.42,1
+135,Ice Cream,9.25,1
+135,Pasta,23.12,3
+135,Steak,18.88,3
+136,Steak,4.75,1
+136,Coffee,20.18,3
+137,Steak,8.34,3
+137,Taco,4.79,1
+138,Fries,10.57,1
+138,Dumplings,5.07,1
+139,Taco,12.39,3
+139,Sushi,11.62,2
+140,Steak,19.28,3
+140,Ice Cream,7.36,3
+141,Chicken Wings,7.04,1
+141,Sushi,16.9,1
+142,Chicken Wings,23.34,2
+142,Noodle Bowl,22.05,1
+142,Burger,11.35,2
+142,Noodle Bowl,6.1,1
+142,Fries,24.67,2
+143,Pizza,11.03,3
+143,Sandwich,15.34,3
+144,Ice Cream,13.17,2
+144,Pizza,4.18,1
+144,Steak,8.57,2
+145,Salad,15.89,1
+146,Chicken Wings,9.99,1
+146,Sushi,16.08,3
+146,Taco,21.27,3
+147,Chicken Wings,3.58,1
+147,Pizza,19.07,3
+148,Taco,20.51,3
+148,Steak,6.66,3
+148,Burger,8.91,1
+148,Noodle Bowl,10.43,2
+149,Steak,13.24,3
+149,Pasta,8.54,3
+150,Burger,7.91,3
+151,Pizza,23.0,2
+152,Steak,8.72,2
+152,Chicken Wings,20.97,3
+152,Burger,17.26,1
+153,Smoothie,24.22,3
+153,Dumplings,18.05,3
+153,Pizza,3.89,2
+154,Sushi,15.22,1
+154,Chicken Wings,20.06,1
+155,Noodle Bowl,5.36,2
+155,Noodle Bowl,17.63,2
+155,Sandwich,19.85,1
+155,Burger,6.12,3
+156,Smoothie,19.17,2
+156,Burger,16.73,2
+156,Chicken Wings,23.21,1
+157,Steak,6.54,2
+157,Pasta,10.9,2
+158,Ice Cream,15.17,3
+158,Ice Cream,7.24,3
+159,Fries,24.71,3
+159,Smoothie,24.95,2
+159,Coffee,15.17,3
+159,Coffee,20.03,1
+160,Pasta,16.41,2
+161,Sushi,17.17,2
+161,Salad,18.87,1
+161,Ice Cream,9.4,1
+162,Fries,16.01,1
+162,Pasta,12.0,1
+162,Chicken Wings,15.93,1
+163,Steak,16.63,1
+164,Burger,7.72,3
+164,Dumplings,16.0,1
+164,Burger,6.94,2
+164,Sandwich,15.41,3
+165,Sushi,22.27,2
+166,Fries,9.3,2
+167,Coffee,16.3,2
+167,Fries,24.87,1
+168,Taco,19.58,3
+168,Sushi,22.73,2
+169,Noodle Bowl,21.39,2
+169,Pizza,5.49,1
+169,Chicken Wings,24.1,1
+169,Salad,19.2,2
+170,Fries,17.36,2
+170,Pasta,13.77,3
+170,Sandwich,13.07,2
+170,Noodle Bowl,23.7,2
+170,Taco,23.63,3
+171,Taco,12.13,3
+171,Pasta,22.6,1
+171,Ice Cream,12.95,1
+171,Salad,3.38,1
+171,Coffee,8.97,1
+172,Burger,6.85,1
+173,Smoothie,20.37,2
+173,Taco,4.0,3
+173,Steak,8.55,2
+174,Ice Cream,12.39,3
+174,Sandwich,6.52,1
+174,Salad,16.1,2
+174,Coffee,16.73,2
+175,Dumplings,7.45,1
+176,Noodle Bowl,20.57,2
+176,Ice Cream,12.7,3
+177,Ice Cream,12.92,1
+177,Ice Cream,5.0,3
+177,Burger,22.5,2
+177,Chicken Wings,4.15,3
+178,Burger,7.7,1
+178,Sandwich,4.51,3
+179,Ice Cream,10.71,3
+179,Salad,6.09,1
+179,Taco,18.32,2
+179,Ice Cream,16.36,2
+180,Smoothie,8.33,2
+180,Coffee,8.71,3
+181,Sushi,20.21,2
+182,Pasta,16.65,3
+182,Chicken Wings,15.32,3
+182,Burger,9.3,3
+183,Pasta,22.7,1
+183,Pasta,8.6,1
+183,Ice Cream,18.14,2
+183,Ice Cream,23.85,1
+184,Noodle Bowl,23.96,3
+184,Coffee,18.7,1
+185,Ice Cream,11.57,3
+186,Salad,22.92,1
+186,Ice Cream,23.53,2
+186,Taco,21.27,3
+187,Pizza,4.33,3
+187,Coffee,16.31,1
+187,Smoothie,9.11,3
+187,Taco,21.23,2
+188,Pasta,21.34,1
+188,Dumplings,5.17,2
+188,Taco,22.16,3
+189,Smoothie,21.35,1
+189,Pasta,22.67,3
+190,Chicken Wings,24.56,3
+190,Fries,15.37,2
+190,Dumplings,21.39,1
+191,Sushi,6.33,1
+191,Sushi,19.11,3
+191,Fries,9.42,3
+192,Sushi,8.53,1
+192,Ice Cream,20.12,2
+192,Sandwich,4.2,2
+193,Salad,11.64,3
+193,Fries,14.49,3
+194,Fries,6.85,3
+194,Chicken Wings,15.01,1
+195,Dumplings,8.82,1
+195,Burger,6.95,1
+195,Pizza,24.35,3
+196,Burger,13.73,2
+196,Pasta,9.47,2
+196,Chicken Wings,16.9,3
+196,Pasta,17.14,1
+197,Sandwich,23.86,3
+198,Sushi,19.58,3
+198,Steak,12.2,1
+198,Noodle Bowl,9.54,2
+198,Sushi,12.01,2
+198,Pizza,12.31,2
+199,Fries,13.71,1
+200,Burger,24.69,2
+200,Noodle Bowl,15.91,2
+200,Taco,21.9,2
+200,Smoothie,19.25,2
+201,Noodle Bowl,23.59,3
+201,Fries,20.66,3
+202,Salad,23.47,3
+202,Fries,7.69,1
+202,Pizza,23.16,2
+202,Taco,3.68,3
+203,Pizza,5.21,3
+203,Sandwich,4.57,2
+204,Salad,18.93,2
+205,Ice Cream,12.06,2
+205,Coffee,20.46,1
+205,Sushi,15.61,3
+205,Chicken Wings,15.66,1
+205,Burger,23.58,2
+206,Sushi,16.58,3
+206,Ice Cream,13.36,2
+207,Coffee,5.57,1
+207,Sandwich,8.58,3
+207,Taco,4.93,3
+208,Sushi,7.76,3
+209,Sushi,12.83,1
+209,Sushi,13.11,1
+209,Chicken Wings,12.33,3
+210,Burger,7.72,1
+210,Pasta,12.99,2
+210,Dumplings,13.76,2
+210,Fries,19.13,2
+210,Sandwich,24.1,1
+211,Sandwich,16.55,1
+211,Steak,7.8,2
+211,Salad,16.49,2
+211,Sandwich,19.11,1
+211,Fries,16.44,2
+212,Pasta,21.52,3
+213,Coffee,17.26,1
+214,Smoothie,17.75,1
+214,Salad,22.29,1
+214,Smoothie,20.78,1
+215,Steak,19.05,1
+215,Pizza,18.17,2
+215,Dumplings,14.24,1
+215,Fries,15.57,2
+216,Salad,22.15,1
+216,Taco,12.86,2
+216,Taco,17.93,3
+217,Noodle Bowl,16.72,1
+217,Pasta,10.83,3
+218,Fries,8.5,3
+219,Pasta,5.66,2
+220,Fries,16.85,1
+220,Smoothie,9.25,3
+220,Ice Cream,18.86,1
+221,Sushi,16.94,2
+222,Coffee,5.51,2
+222,Salad,9.63,1
+223,Chicken Wings,6.09,3
+224,Taco,4.25,2
+224,Chicken Wings,9.73,2
+224,Fries,9.64,2
+225,Pizza,24.56,3
+225,Ice Cream,3.38,3
+225,Sushi,4.96,1
+226,Ice Cream,24.64,3
+226,Noodle Bowl,15.83,2
+226,Pizza,5.52,2
+227,Coffee,9.78,3
+228,Sandwich,23.58,1
+228,Dumplings,9.3,3
+229,Pasta,4.47,1
+230,Fries,13.14,1
+230,Burger,23.68,1
+231,Salad,23.1,2
+231,Ice Cream,10.89,1
+232,Ice Cream,19.22,2
+233,Coffee,15.25,3
+233,Coffee,3.8,2
+233,Dumplings,18.16,2
+233,Salad,17.0,2
+233,Pizza,15.84,1
+234,Taco,14.17,2
+234,Noodle Bowl,19.78,1
+235,Sushi,22.91,3
+235,Burger,24.95,1
+235,Smoothie,3.18,3
+235,Dumplings,14.11,1
+236,Coffee,11.97,2
+236,Burger,17.72,3
+236,Salad,24.45,2
+236,Ice Cream,22.09,2
+237,Steak,4.33,3
+237,Sandwich,20.07,2
+237,Smoothie,12.71,3
+237,Burger,4.64,3
+237,Salad,24.34,2
+238,Pizza,5.77,1
+239,Pasta,16.93,1
+239,Coffee,16.37,3
+240,Burger,11.11,3
+240,Burger,9.31,2
+241,Pasta,24.91,1
+241,Pizza,14.83,1
+241,Sushi,12.14,2
+241,Pizza,8.24,3
+242,Burger,11.51,2
+242,Smoothie,6.12,3
+242,Chicken Wings,5.99,2
+242,Salad,18.22,1
+243,Sushi,6.68,1
+243,Burger,24.09,1
+243,Chicken Wings,14.98,3
+243,Salad,16.06,3
+244,Pasta,4.89,2
+245,Pizza,4.66,1
+245,Smoothie,6.82,1
+245,Sandwich,14.94,1
+246,Sushi,22.3,2
+246,Pasta,7.68,2
+246,Taco,3.9,2
+246,Noodle Bowl,8.81,1
+246,Noodle Bowl,6.43,3
+247,Steak,10.54,3
+247,Noodle Bowl,20.66,3
+247,Pizza,10.2,3
+247,Taco,8.29,2
+248,Dumplings,15.69,3
+248,Fries,23.54,1
+248,Burger,24.29,2
+249,Taco,24.79,3
+249,Dumplings,19.22,2
+249,Salad,8.55,2
+249,Sandwich,3.8,1
+249,Sandwich,20.18,2
+250,Ice Cream,11.79,3
+250,Sandwich,13.47,1
+250,Ice Cream,23.71,3
+251,Steak,3.77,3
+251,Coffee,18.87,2
+251,Taco,19.05,3
+251,Pasta,6.51,2
+252,Noodle Bowl,10.87,3
+252,Coffee,18.35,1
+252,Taco,14.49,2
+252,Ice Cream,13.67,1
+252,Smoothie,6.02,1
+253,Smoothie,19.02,2
+253,Burger,5.23,2
+253,Smoothie,7.89,1
+254,Ice Cream,14.23,1
+254,Smoothie,3.21,3
+255,Chicken Wings,6.49,3
+255,Salad,8.51,3
+255,Pasta,23.13,2
+256,Burger,16.8,1
+256,Steak,14.79,1
+256,Coffee,7.21,3
+256,Salad,8.5,3
+257,Pasta,13.96,2
+257,Coffee,7.09,1
+257,Ice Cream,18.06,3
+257,Salad,15.19,1
+257,Pizza,22.3,1
+258,Dumplings,4.64,3
+259,Ice Cream,8.72,3
+260,Noodle Bowl,17.1,2
+260,Pizza,8.17,3
+260,Sandwich,5.85,1
+260,Chicken Wings,23.55,1
+260,Noodle Bowl,7.1,3
+261,Fries,13.45,3
+261,Sandwich,19.05,1
+262,Pizza,8.78,1
+262,Pasta,8.41,1
+263,Sandwich,16.77,1
+264,Smoothie,8.56,1
+264,Noodle Bowl,9.75,2
+264,Steak,15.07,3
+264,Burger,5.58,1
+265,Pasta,4.23,3
+265,Pasta,9.25,2
+265,Salad,14.81,3
+265,Pasta,23.51,1
+266,Smoothie,19.54,2
+266,Steak,13.73,1
+266,Salad,9.75,2
+266,Salad,19.97,1
+267,Pasta,6.49,3
+267,Steak,20.06,3
+267,Noodle Bowl,13.8,1
+268,Smoothie,13.44,2
+268,Salad,24.61,2
+268,Noodle Bowl,18.61,2
+268,Noodle Bowl,5.98,2
+268,Pasta,12.33,2
+269,Coffee,20.55,2
+269,Pizza,7.2,1
+269,Burger,11.68,2
+269,Pizza,15.05,1
+269,Fries,6.54,1
+270,Fries,7.01,2
+271,Sandwich,8.45,1
+271,Dumplings,15.33,2
+271,Dumplings,23.9,3
+271,Sandwich,3.29,2
+272,Chicken Wings,8.04,1
+273,Fries,17.85,3
+274,Smoothie,11.64,3
+274,Steak,22.79,3
+274,Smoothie,6.2,1
+274,Ice Cream,16.38,2
+275,Taco,22.83,1
+275,Pizza,22.89,2
+275,Pizza,15.94,2
+276,Fries,8.39,1
+276,Sushi,23.94,3
+277,Pizza,8.76,2
+277,Sushi,8.57,2
+278,Chicken Wings,4.75,3
+279,Sandwich,21.38,3
+279,Ice Cream,17.59,2
+279,Ice Cream,23.27,1
+280,Steak,10.33,3
+280,Fries,8.58,1
+280,Sushi,17.37,2
+280,Dumplings,14.94,2
+281,Chicken Wings,5.08,2
+281,Dumplings,10.65,1
+281,Salad,5.5,2
+282,Smoothie,14.54,1
+282,Chicken Wings,9.87,3
+282,Fries,21.97,2
+282,Coffee,21.16,3
+283,Steak,5.61,1
+283,Smoothie,20.67,3
+283,Salad,17.28,3
+284,Noodle Bowl,19.48,2
+284,Burger,19.16,3
+284,Coffee,23.16,2
+285,Burger,17.08,1
+285,Sandwich,12.79,2
+285,Steak,11.77,1
+286,Smoothie,20.43,3
+287,Steak,22.24,1
+287,Smoothie,22.13,3
+287,Noodle Bowl,7.19,2
+287,Ice Cream,11.19,2
+287,Steak,22.07,1
+288,Taco,19.17,2
+288,Coffee,21.41,3
+288,Taco,22.89,3
+288,Sushi,17.9,3
+288,Smoothie,4.54,1
+289,Chicken Wings,13.11,3
+289,Sandwich,9.54,2
+289,Noodle Bowl,14.21,1
+289,Pizza,20.06,3
+289,Taco,23.7,3
+290,Dumplings,3.35,1
+291,Salad,9.32,2
+291,Salad,22.24,3
+291,Taco,21.33,2
+291,Ice Cream,21.28,2
+292,Pizza,3.51,2
+292,Salad,7.99,3
+292,Steak,8.49,3
+292,Pizza,15.55,2
+292,Sushi,8.75,3
+293,Fries,3.1,2
+293,Taco,18.75,1
+293,Burger,24.36,3
+294,Chicken Wings,15.52,1
+294,Dumplings,14.18,2
+295,Burger,8.26,2
+295,Pizza,6.27,3
+295,Burger,9.07,1
+295,Ice Cream,11.88,2
+296,Coffee,5.57,2
+296,Steak,4.18,1
+296,Ice Cream,20.42,2
+296,Sushi,4.04,1
+297,Noodle Bowl,17.19,2
+297,Steak,11.36,3
+297,Ice Cream,22.14,1
+297,Steak,15.4,1
+297,Pasta,21.6,2
+298,Smoothie,13.31,1
+298,Chicken Wings,6.53,2
+298,Pasta,24.33,1
+299,Ice Cream,21.07,1
+299,Salad,24.36,1
+299,Smoothie,6.97,3
+300,Ice Cream,18.21,2
+300,Pizza,18.16,1
+300,Fries,22.15,2
+300,Pizza,8.41,2
+301,Dumplings,9.4,3
+301,Noodle Bowl,23.29,3
+301,Fries,22.77,1
+301,Fries,19.98,3
+301,Burger,13.97,2
+302,Sandwich,12.25,2
+302,Fries,19.62,3
+303,Chicken Wings,7.55,1
+303,Chicken Wings,21.46,2
+303,Sushi,5.61,3
+304,Salad,23.58,1
+305,Smoothie,16.77,2
+305,Dumplings,18.65,3
+305,Noodle Bowl,8.98,3
+305,Burger,13.65,1
+306,Burger,19.29,3
+306,Coffee,17.39,3
+306,Salad,13.87,2
+306,Sushi,21.92,1
+307,Ice Cream,7.77,1
+307,Burger,18.29,2
+307,Steak,20.92,2
+307,Sandwich,11.7,1
+307,Taco,8.53,1
+308,Chicken Wings,8.73,1
+308,Smoothie,13.18,1
+309,Dumplings,23.77,1
+310,Pasta,16.27,3
+310,Noodle Bowl,15.5,3
+310,Sushi,6.31,2
+310,Pasta,4.3,2
+311,Chicken Wings,9.91,2
+311,Coffee,13.49,2
+311,Salad,10.25,2
+311,Chicken Wings,9.27,3
+312,Sushi,11.42,3
+312,Taco,4.44,1
+313,Smoothie,12.89,1
+313,Taco,8.25,3
+313,Taco,12.99,2
+313,Taco,14.89,3
+314,Pasta,14.77,3
+314,Burger,8.46,1
+314,Pizza,15.37,3
+315,Chicken Wings,14.38,1
+315,Ice Cream,18.98,3
+315,Taco,5.84,2
+316,Taco,8.98,3
+316,Salad,11.52,3
+316,Pasta,9.46,1
+316,Salad,22.76,3
+317,Sushi,12.76,2
+317,Taco,10.72,2
+318,Coffee,15.68,2
+318,Pasta,16.15,2
+318,Dumplings,14.8,2
+318,Fries,16.52,2
+319,Pasta,5.94,1
+319,Sushi,7.12,1
+319,Sushi,23.66,1
+320,Steak,10.84,1
+320,Smoothie,21.8,3
+320,Pizza,24.43,1
+320,Fries,20.68,3
+321,Pasta,12.84,2
+321,Pasta,4.71,3
+321,Burger,12.93,3
+321,Coffee,21.86,3
+321,Salad,12.05,3
+322,Burger,21.52,3
+322,Burger,14.37,1
+322,Sushi,4.38,1
+322,Burger,24.64,1
+323,Fries,17.39,2
+323,Coffee,15.08,3
+323,Pasta,20.89,3
+324,Pizza,7.45,1
+324,Dumplings,17.84,1
+324,Noodle Bowl,21.84,1
+324,Pasta,14.17,2
+325,Chicken Wings,18.78,1
+325,Noodle Bowl,5.72,1
+325,Pizza,6.56,3
+325,Salad,18.11,1
+326,Noodle Bowl,21.95,2
+326,Fries,21.8,1
+326,Smoothie,20.05,3
+326,Chicken Wings,24.26,2
+327,Burger,17.56,1
+327,Coffee,22.38,3
+327,Pizza,13.5,2
+327,Taco,17.24,1
+328,Steak,17.29,2
+328,Taco,3.5,1
+328,Noodle Bowl,14.76,1
+329,Fries,23.75,2
+330,Dumplings,18.31,2
+331,Salad,23.77,3
+331,Pizza,14.01,1
+332,Steak,12.06,1
+332,Burger,20.54,3
+332,Fries,22.07,1
+332,Noodle Bowl,16.48,3
+332,Burger,9.75,1
+333,Burger,14.71,3
+333,Noodle Bowl,16.66,2
+334,Burger,24.47,2
+334,Burger,18.48,3
+334,Steak,20.27,1
+335,Dumplings,24.21,2
+336,Sushi,14.36,2
+337,Pizza,20.36,2
+337,Ice Cream,20.37,1
+337,Chicken Wings,6.96,3
+337,Dumplings,19.6,3
+337,Steak,7.85,1
+338,Sandwich,15.21,3
+339,Taco,13.15,1
+340,Salad,6.63,1
+340,Ice Cream,19.83,3
+340,Smoothie,15.59,3
+341,Sushi,21.37,3
+341,Chicken Wings,12.2,1
+341,Burger,16.23,3
+342,Sandwich,23.93,3
+342,Smoothie,21.94,1
+342,Burger,19.39,3
+343,Chicken Wings,24.36,1
+343,Pizza,15.2,3
+343,Smoothie,17.6,1
+343,Sushi,13.4,1
+344,Salad,15.18,3
+344,Noodle Bowl,9.05,3
+344,Steak,20.84,3
+344,Coffee,15.92,1
+345,Pasta,22.82,2
+345,Sushi,24.8,3
+346,Coffee,21.96,2
+347,Ice Cream,3.11,3
+347,Taco,9.65,3
+347,Taco,17.08,2
+347,Noodle Bowl,19.0,3
+347,Coffee,16.98,3
+348,Fries,15.53,3
+348,Smoothie,24.69,3
+348,Noodle Bowl,4.47,1
+348,Smoothie,15.56,3
+349,Sushi,23.73,1
+349,Smoothie,21.67,2
+349,Burger,17.69,1
+349,Sandwich,4.47,1
+350,Smoothie,4.36,2
+350,Sandwich,16.15,3
+350,Ice Cream,10.27,1
+350,Sushi,12.28,2
+350,Fries,8.46,3
+351,Taco,10.0,2
+351,Noodle Bowl,15.15,2
+351,Salad,3.33,3
+351,Fries,20.12,3
+352,Pizza,12.3,3
+352,Sushi,17.76,3
+353,Sushi,12.86,2
+354,Burger,11.86,3
+354,Noodle Bowl,22.95,3
+355,Smoothie,24.21,3
+355,Dumplings,5.51,1
+355,Salad,11.53,1
+355,Fries,10.94,2
+356,Taco,12.42,3
+356,Chicken Wings,5.25,1
+356,Dumplings,20.45,3
+356,Steak,4.52,1
+357,Chicken Wings,12.29,3
+357,Taco,6.52,3
+357,Burger,10.32,1
+357,Sandwich,14.69,2
+357,Salad,3.57,3
+358,Dumplings,17.81,3
+358,Smoothie,23.64,2
+358,Salad,3.23,1
+358,Fries,6.65,3
+358,Sushi,24.79,2
+359,Smoothie,19.96,3
+359,Noodle Bowl,11.02,2
+359,Salad,4.55,3
+359,Pizza,14.14,3
+360,Sandwich,14.15,2
+360,Pizza,5.38,1
+360,Pasta,23.18,2
+360,Dumplings,8.76,3
+360,Ice Cream,3.5,2
+361,Salad,4.12,2
+361,Fries,12.79,1
+362,Sushi,14.36,2
+362,Chicken Wings,3.14,3
+362,Smoothie,16.76,3
+362,Burger,15.52,1
+362,Taco,4.15,2
+363,Sushi,15.87,1
+363,Salad,5.58,3
+363,Taco,20.66,1
+363,Coffee,22.33,1
+363,Smoothie,16.48,3
+364,Burger,17.82,3
+364,Smoothie,23.58,1
+365,Pasta,12.35,2
+365,Noodle Bowl,21.99,3
+365,Sushi,5.87,3
+365,Burger,16.48,1
+366,Smoothie,19.79,3
+367,Fries,4.07,1
+367,Smoothie,12.99,3
+367,Smoothie,20.57,3
+367,Pizza,5.28,3
+367,Pizza,5.82,2
+368,Pizza,22.5,1
+369,Smoothie,20.54,1
+369,Dumplings,14.54,2
+369,Burger,5.31,3
+369,Ice Cream,15.13,3
+369,Pasta,6.96,3
+370,Salad,11.78,2
+370,Dumplings,14.68,3
+370,Coffee,10.0,2
+370,Sushi,12.51,2
+371,Dumplings,22.74,2
+371,Sushi,17.79,3
+371,Sandwich,22.14,1
+372,Burger,10.41,2
+372,Pasta,11.58,2
+372,Salad,22.6,1
+373,Noodle Bowl,19.11,2
+373,Smoothie,11.94,2
+374,Pasta,13.22,1
+374,Salad,11.9,2
+374,Coffee,12.52,3
+374,Fries,11.45,1
+375,Sandwich,8.21,2
+375,Pasta,5.82,3
+376,Sushi,23.81,2
+376,Noodle Bowl,13.48,2
+377,Taco,10.2,3
+377,Burger,23.77,1
+377,Pasta,10.71,3
+377,Noodle Bowl,19.96,2
+377,Smoothie,3.1,2
+378,Pizza,14.77,1
+378,Pizza,13.31,1
+378,Sushi,18.68,2
+378,Sandwich,14.12,1
+379,Coffee,15.11,3
+380,Coffee,3.33,1
+380,Salad,9.75,3
+380,Fries,7.27,3
+381,Taco,8.23,3
+381,Steak,7.85,2
+381,Pasta,3.3,2
+382,Steak,3.73,3
+382,Taco,24.4,1
+383,Fries,19.74,3
+384,Chicken Wings,6.29,1
+384,Noodle Bowl,18.54,2
+385,Fries,5.7,2
+385,Pizza,20.41,2
+385,Sandwich,19.29,2
+385,Fries,19.06,2
+386,Chicken Wings,14.89,2
+386,Pasta,16.03,1
+386,Sushi,7.39,1
+387,Smoothie,21.87,2
+388,Sandwich,6.6,2
+388,Sandwich,3.02,2
+388,Pasta,22.51,3
+388,Pizza,4.24,3
+389,Taco,13.06,3
+389,Sushi,13.28,3
+389,Fries,7.38,2
+389,Dumplings,4.6,2
+389,Ice Cream,12.97,2
+390,Taco,5.78,1
+391,Noodle Bowl,19.72,1
+392,Fries,11.67,3
+392,Dumplings,13.5,3
+392,Taco,9.3,2
+392,Coffee,22.66,3
+392,Pasta,15.81,2
+393,Taco,24.67,1
+394,Ice Cream,15.91,1
+395,Ice Cream,7.99,1
+395,Pasta,21.09,2
+395,Smoothie,10.9,1
+395,Chicken Wings,7.81,3
+396,Smoothie,11.46,3
+396,Ice Cream,13.87,3
+396,Steak,21.82,2
+396,Steak,18.62,2
+397,Sushi,16.6,3
+397,Sandwich,18.09,2
+397,Sushi,18.75,2
+398,Fries,22.83,1
+398,Smoothie,19.63,3
+399,Ice Cream,10.09,3
+400,Dumplings,19.56,2
+400,Noodle Bowl,18.87,2

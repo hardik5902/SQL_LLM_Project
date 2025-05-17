@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,email,signup_date,age,gender,home_zip
+1,Shane,Rodriguez,qsmith@hotmail.com,2024-10-27,32,Non‑binary,04192
+2,Adam,Holland,bryantanthony@vega.info,2023-12-03,62,Female,49908
+3,Jamie,Young,david74@yahoo.com,2023-11-30,21,Non‑binary,45682
+4,Gabriela,Gibson,jamie90@yahoo.com,2024-06-22,23,Male,07625
+5,Erika,Gray,brian51@williams.net,2023-07-18,52,Prefer not to say,21466
+6,Steven,Mccormick,halllouis@pierce.biz,2024-02-01,24,Male,36470
+7,Darlene,Buckley,johnneal@gmail.com,2025-02-08,30,Female,75318
+8,Donald,Miles,georgemcmillan@wilson.com,2025-04-17,21,Female,21645
+9,Todd,Moore,amberthomas@benson.com,2024-01-15,80,Non‑binary,07551
+10,Laura,Mitchell,amurray@woods-miller.com,2024-09-12,70,Non‑binary,49800
+11,Todd,Daniels,dholmes@hays.biz,2025-04-17,63,Prefer not to say,85042
+12,David,Brown,amber08@day.com,2024-10-09,20,Female,96210
+13,Jonathon,Tyler,ruthporter@larsen.org,2023-10-07,30,Non‑binary,57184
+14,Brian,Mendoza,maria44@gmail.com,2024-07-31,52,Female,43075
+15,Michele,Johnson,danielle19@robinson.com,2024-04-08,70,Non‑binary,77065
+16,Stacey,Hudson,megan16@short.com,2023-11-09,68,Male,26565
+17,Anita,Matthews,floresbrooke@hotmail.com,2024-11-05,70,Female,38704
+18,Deborah,Franklin,carterjonathan@mullen-lozano.com,2025-02-02,24,Prefer not to say,07909
+19,Chelsea,Macdonald,elizabethdavis@yahoo.com,2025-03-19,24,Non‑binary,20330
+20,Victoria,Brown,armstrongmary@yahoo.com,2024-01-21,27,Male,51199
+21,David,Leonard,haasvanessa@hotmail.com,2023-12-28,31,Male,34470
+22,Mark,Johnson,reginalove@yahoo.com,2024-02-01,43,Female,38908
+23,Jose,Grant,deborah84@gmail.com,2023-11-23,66,Female,45336
+24,Kimberly,Perez,richardsoncynthia@yahoo.com,2023-09-10,77,Female,74013
+25,Peggy,Smith,karen38@daniels.com,2023-10-14,21,Non‑binary,07547
+26,Cristina,Anderson,johnlowery@hotmail.com,2024-07-29,45,Female,21535
+27,Martin,Miller,masonmatthew@yahoo.com,2023-07-02,42,Prefer not to say,26229
+28,Haley,Smith,kyle71@garrison.com,2023-12-16,19,Non‑binary,38521
+29,Brooke,Walker,gadams@sharp.com,2025-03-11,22,Non‑binary,74650
+30,Corey,Oneill,alvarezbrian@wilson.com,2024-04-14,57,Female,24680
+31,Taylor,Anderson,yvaldez@yahoo.com,2023-09-18,39,Male,03766
+32,Michael,Sharp,wdaniels@sparks.com,2024-07-10,22,Female,43634
+33,Brian,Cooke,barnettjoseph@gmail.com,2025-03-06,62,Female,95176
+34,Crystal,Mcdonald,xvargas@haas.com,2024-09-30,28,Non‑binary,98877
+35,Anna,Cantu,mckenzie78@patterson.com,2023-12-24,55,Male,95406
+36,David,Thornton,pacedevon@gmail.com,2023-11-12,32,Prefer not to say,36638
+37,Sarah,Miller,jason91@gmail.com,2023-12-03,80,Female,05259
+38,Ryan,Duncan,michaelwilliams@hotmail.com,2023-11-24,37,Female,13542
+39,Manuel,Callahan,qroman@yahoo.com,2023-11-22,43,Female,09183
+40,Karen,Castillo,tayloramanda@farmer.com,2024-04-02,25,Female,87118
+41,Andrew,Logan,toni49@gmail.com,2025-05-03,24,Male,61421
+42,Raymond,Burton,hprice@yahoo.com,2023-09-20,20,Female,62075
+43,Tim,Reid,thomas63@gmail.com,2025-02-21,27,Female,38581
+44,Benjamin,Brown,meganharris@galloway-clark.com,2024-01-19,19,Prefer not to say,09129
+45,Scott,Anderson,joanna51@gmail.com,2023-10-31,32,Male,05309
+46,Anthony,Moore,pooleeric@thompson-thomas.info,2025-03-07,76,Female,10461
+47,Samuel,West,zmann@hughes-erickson.com,2023-06-23,75,Female,25820
+48,Pamela,Brown,vazquezjennifer@richardson-tucker.com,2024-02-25,48,Male,48247
+49,Brenda,Miranda,myersjeffrey@lang.info,2024-02-11,57,Prefer not to say,75856
+50,Sierra,Moore,lori86@gmail.com,2024-07-31,28,Non‑binary,03809
+51,Sheila,Brewer,emathews@hotmail.com,2024-12-20,58,Female,36985
+52,Michael,Ramos,michaelferguson@reyes-acosta.net,2024-12-18,55,Male,51092
+53,April,Obrien,patrickamanda@yahoo.com,2024-07-11,30,Male,45439
+54,Lisa,Haas,brangel@gmail.com,2024-01-12,40,Male,87444
+55,John,Bell,sandra53@johnson.com,2024-05-05,36,Female,32168
+56,Theresa,Newton,ericamendoza@thomas.com,2024-01-28,43,Non‑binary,08854
+57,Brittany,Guzman,heather85@hotmail.com,2025-01-05,63,Female,49477
+58,Alan,Nicholson,becky64@hotmail.com,2024-05-08,47,Female,15222
+59,Aaron,Hill,tracyharmon@gmail.com,2023-08-13,64,Prefer not to say,81154
+60,Colton,Johnson,mlong@cruz-scott.net,2024-04-20,25,Non‑binary,15357
+61,Ashley,Olsen,allisonbarnett@bailey-wood.net,2023-11-03,62,Male,68611
+62,Rhonda,Woods,rachelvalenzuela@ramirez-andrews.com,2024-08-29,45,Female,62278
+63,Natasha,Keith,jeremiah62@yahoo.com,2024-10-04,63,Female,46439
+64,Natalie,Becker,jameswilliams@caldwell-morgan.com,2025-04-23,47,Male,05982
+65,Jesse,Cardenas,melindaholland@yahoo.com,2024-04-25,29,Non‑binary,24573
+66,Debra,Cole,nguyenbradley@hotmail.com,2024-11-16,29,Non‑binary,20179
+67,Anna,Levy,branchmichelle@haas.com,2024-05-04,50,Prefer not to say,89001
+68,Omar,Murphy,jameslisa@gmail.com,2023-12-09,53,Female,90351
+69,Dana,Dunn,danielfisher@yahoo.com,2023-08-24,43,Male,17855
+70,Carlos,Silva,tuckerdaniel@nixon.com,2024-06-10,60,Female,15103
+71,Julian,Trujillo,racheldaniels@gmail.com,2024-02-23,38,Prefer not to say,58869
+72,Kimberly,Sloan,perezvictoria@combs-thornton.org,2023-08-20,53,Female,83152
+73,Derrick,Lucas,benjamin95@booker-mills.org,2024-08-19,80,Non‑binary,30649
+74,Stacey,Tucker,romancheryl@gmail.com,2023-11-11,62,Prefer not to say,74159
+75,Stephanie,Hall,derrick07@hotmail.com,2024-04-02,28,Male,15588
+76,Krystal,Barnes,stephaniecollins@ritter.net,2023-12-27,54,Non‑binary,40687
+77,Leah,Bennett,trevorward@yahoo.com,2024-05-09,57,Female,65516
+78,Jacqueline,Pearson,richardssharon@case-mayo.com,2024-10-06,33,Prefer not to say,32910
+79,Joshua,Mitchell,ryan73@yahoo.com,2024-11-03,19,Female,11151
+80,Allison,Hampton,riveradanielle@gmail.com,2023-08-13,50,Prefer not to say,23119
+81,Michael,Williams,carneymichael@morrison-powell.net,2023-06-20,41,Prefer not to say,95783
+82,Melissa,Davis,ywilkinson@hotmail.com,2023-12-03,36,Male,19170
+83,Juan,Holt,maria00@duncan.info,2025-01-29,72,Female,71987
+84,Andrea,Ross,awalker@gmail.com,2024-08-03,72,Female,82671
+85,Luis,Miller,ijones@gmail.com,2024-05-09,19,Non‑binary,30697
+86,Heather,Powell,mjimenez@yahoo.com,2024-07-26,54,Male,92032
+87,Mark,Dunn,woodscarl@yahoo.com,2024-03-04,72,Prefer not to say,31105
+88,Tammy,Solis,jamesarnold@wilson.info,2024-12-02,55,Non‑binary,55709
+89,Carol,Smith,andersonkevin@scott-howard.org,2024-01-26,75,Female,53335
+90,Marco,Christensen,andersongabrielle@gmail.com,2024-03-03,45,Prefer not to say,02275
+91,Brenda,Cross,levigarcia@yahoo.com,2025-05-10,25,Non‑binary,14540
+92,Anna,Pacheco,ashley65@hotmail.com,2025-05-02,19,Prefer not to say,58549
+93,Michael,Berger,chad50@hotmail.com,2023-06-16,39,Female,71536
+94,Virginia,Oconnor,mitchellfox@robinson.com,2024-01-29,22,Male,01494
+95,Ryan,Hays,leonardjones@hotmail.com,2025-01-16,32,Non‑binary,15873
+96,Clifford,Lopez,jessicakelly@gmail.com,2025-02-15,26,Prefer not to say,96569
+97,Tiffany,Johnson,matthew45@yahoo.com,2023-10-29,57,Male,93944
+98,Mike,Thompson,mjones@taylor.com,2024-09-23,37,Female,14012
+99,Stephen,Gillespie,carrrachel@brown-jones.org,2024-03-14,18,Non‑binary,75049
+100,Kevin,Hoover,gmaldonado@fitzgerald.net,2024-05-03,45,Non‑binary,29811
