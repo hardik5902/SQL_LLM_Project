@@ -1,7 +1,6 @@
 import os
 import json
 import fitz
-import email
 import uuid
 from datetime import datetime
 from email import policy
@@ -66,7 +65,7 @@ def parse_email(file_path):
 def process_directory(directory, output_file='data/parsed_docs.jsonl'):
     os.makedirs(os.path.dirname(output_file), exist_ok=True)
     
-    with open(output_file, 'w') as out_file:
+    with open(output_file, 'a') as out_file:
         for filename in os.listdir(directory):
             file_path = os.path.join(directory, filename)
             
@@ -84,5 +83,6 @@ def process_directory(directory, output_file='data/parsed_docs.jsonl'):
                 print(f"Processed: {filename}")
 
 if __name__ == "__main__":
-    process_directory('data/')
+    process_directory('data/pdfs')
+    process_directory('data/emls')
     print("Done")

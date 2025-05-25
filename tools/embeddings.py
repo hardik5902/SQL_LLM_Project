@@ -1,6 +1,5 @@
-import os
 import json
-import torch
+from typing import List, Dict
 from sentence_transformers import SentenceTransformer
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from qdrant_client import QdrantClient
@@ -8,97 +7,68 @@ from qdrant_client.http import models
 
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
-def load_documents(jsonl_file):
-    documents = []
+def load_documents(jsonl_file: str) -> List[Dict]:
     with open(jsonl_file, 'r') as file:
-        for line in file:
-            doc = json.loads(line)
-            documents.append(doc)
-    return documents
+        return [json.loads(line) for line in file]
 
-def chunk_documents(documents, chunk_size=500, chunk_overlap=50):
-    text_splitter = RecursiveCharacterTextSplitter(
+def chunk_document(text: str, chunk_size: int = 500) -> List[str]:
+    splitter = RecursiveCharacterTextSplitter(
         chunk_size=chunk_size,
-        chunk_overlap=chunk_overlap
+        chunk_overlap=50,
+        separators=["\n\n", "\n", ". ", " ", ""]
     )
-    
-    chunked_docs = []
-    for doc in documents:
-        chunks = text_splitter.split_text(doc['body'])
-        for i, chunk_text in enumerate(chunks):
-            chunked_docs.append({
-                "chunk_id": f"{doc['doc_id']}-{i}",
-                "doc_id": doc['doc_id'],
-                "text": chunk_text,
-                "source_type": doc.get('source_type', 'unknown'),
-                "title": doc.get('title', 'Untitled'),
-                "created_at": doc.get('created_at'),
-                "chunk_index": i
-            })
-    return chunked_docs
+    return splitter.split_text(text)
 
-def generate_embeddings(chunked_docs):
-    texts = [doc['text'] for doc in chunked_docs]
-    embeddings = model.encode(texts)
-    
-    for i, doc in enumerate(chunked_docs):
-        doc['embedding'] = embeddings[i].tolist()
-    
-    return chunked_docs
+def process_document(client: QdrantClient, text: str, doc_id: int):
+    chunks = chunk_document(text)
 
-def setup_qdrant():
-    client = QdrantClient(":memory:") 
+    embeddings = model.encode(chunks)
     
-    client.create_collection(
+    # Prepare points with metadata
+    points = [
+        models.PointStruct(
+            id=i,
+            vector=embedding.tolist(),
+            payload={
+                "text": chunk,
+                "doc_id": doc_id,
+                "chunk_id": i,
+                "position": i,
+                "total_chunks": len(chunks)
+            }
+        )
+        for i, (chunk, embedding) in enumerate(zip(chunks, embeddings))
+    ]
+
+    client.upsert(
+        collection_name="documents",
+        points=points
+    )
+
+def initialize_qdrant() -> QdrantClient:
+    client = QdrantClient(host="localhost", port=6333)
+
+    sample_embedding = model.encode(["sample text"])[0]
+    
+    client.recreate_collection(
         collection_name="documents",
         vectors_config=models.VectorParams(
-            size=model.get_sentence_embedding_dimension(),
+            size=len(sample_embedding),
             distance=models.Distance.COSINE
         )
     )
-
     return client
 
-def upload_to_qdrant(client, docs_with_embeddings):
-    points = []
-    
-    for i, doc in enumerate(docs_with_embeddings):
-        points.append(
-            models.PointStruct(
-                id=i,
-                vector=doc['embedding'],
-                payload={
-                    "chunk_id": doc["chunk_id"],
-                    "doc_id": doc["doc_id"],
-                    "text": doc["text"],
-                    "title": doc["title"],
-                    "source_type": doc["source_type"],
-                    "created_at": doc["created_at"],
-                    "chunk_index": doc["chunk_index"]
-                }
-            )
-        )
-    
-    batch_size = 100
-    for i in range(0, len(points), batch_size):
-        batch = points[i:i+batch_size]
-        client.upsert(
-            collection_name="documents",
-            points=batch
-        )
-    
-    print(f"Uploaded {len(points)} document chunks to Qdrant")
-
 if __name__ == "__main__":
+    client = initialize_qdrant()
     docs = load_documents('data/parsed_docs.jsonl')
-    print(f"Loaded {len(docs)} documents")
     
-    chunked_docs = chunk_documents(docs)
-    print(f"Created {len(chunked_docs)} chunks")
+    for i, doc in enumerate(docs):
+        process_document(client, doc['body'], doc_id=i)
+        print(f"Processed document {i+1}/{len(docs)}")
     
-    docs_with_embeddings = generate_embeddings(chunked_docs)
-    
-    client = setup_qdrant()
-    upload_to_qdrant(client, docs_with_embeddings)
-    
-    print("Embedding and indexing completed")
+    print("Indexing completed")
+
+
+# docker run -p 6333:6333 qdrant/qdrant
+# python tools/embeddings.py

@@ -36,11 +36,3 @@ def generate_sql_query(question: str) -> str:
 def run_sql_query(query: str):
     execute_query_tool = QuerySQLDatabaseTool(db=db)
     return execute_query_tool.invoke(query)
-
-question = "Return the top 5 customers in the database based on total order amount."
-output = generate_sql_query(question)
-sql = re.search(r"```sql\s*(.*?)\s*```", output.content, re.S).group(1)
-print(sql.strip())
-print("\n")
-results = run_sql_query(sql)
-print(results)
